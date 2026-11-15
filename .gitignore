@@ -1,0 +1,13 @@
+# Réglages de l'éditeur (propres à ma machine)
+.vscode/
+
+# Fichiers temporaires et de sauvegarde (gedit, vim, etc.)
+*~
+*.swp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
